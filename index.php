@@ -1,7 +1,7 @@
 <?php
 
 
-echo "hello stanley, finally you completed the cicd...hurray!!!"
+echo "hello stanley,"
 
 
 ?>
