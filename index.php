@@ -1,7 +1,7 @@
 <?php
 
 
-echo "hello minion, congo!!"
+echo "hello minion!!"
 
 
 ?>
