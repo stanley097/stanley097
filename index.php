@@ -1,7 +1,7 @@
 <?php
 
 
-echo "hello stanley!!! Hurray..........."
+echo "hello stanley!!!..........."
 
 
 ?>
